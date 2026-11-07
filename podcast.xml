@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>America After Dark with Dudley Duke</title>
+    <link>https://americaafterdarkradio.com</link>
+    <atom:link href="https://americaafterdarkradio.com/podcast.xml" rel="self" type="application/rss+xml"/>
+    <description>Three unhurried hours of overnight talk radio, weeknights midnight to 3 AM Eastern from DeLand, Florida. Dudley Duke opens with the real news of the night — state, national and international — then the phones open to callers from across America and around the world. Every night closes with Radio Graffiti, where each caller gets one line, and one line only. Listen live at americaafterdarkradio.com.</description>
+    <language>en-us</language>
+    <itunes:author>Dudley Duke</itunes:author>
+    <itunes:owner>
+      <itunes:name>George Curcio</itunes:name>
+      <itunes:email>georgecurcio@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://archive.org/download/america-after-dark-podcast-artwork/podcast-cover.jpg"/>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Friday Night, November 6, 2026</title>
+      <description>The Friday night show, aired Saturday, November 7, 2026, 12:00–3:00 AM Eastern from DeLand, Florida. The night's real news: California commutes all 548 death sentences; Gina Hinojosa wins the Texas governor's race; the October jobs report beats forecasts; Paraguay's president removed after a bank collapse; Paul Mackenzie sentenced to 200 years in Kenya; Pope Leo XIV begins a 12-day South America tour. Plus callers from across America and Radio Graffiti to close.</description>
+      <pubDate>Sat, 07 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://archive.org/download/america-after-dark-friday-night-2026-11-06/America-After-Dark-Friday-Night-2026-11-06.mp3</guid>
+      <enclosure url="https://archive.org/download/america-after-dark-friday-night-2026-11-06/America-After-Dark-Friday-Night-2026-11-06.mp3" length="129601773" type="audio/mpeg"/>
+      <itunes:duration>3:00:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Thursday Night, November 5, 2026</title>
+      <description>The Thursday night show, aired Friday, November 6, 2026, 12:00–3:00 AM Eastern from DeLand, Florida. Three hours of real State, National and International news, callers from across America and around the world, and Radio Graffiti in the final half hour.</description>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://archive.org/download/america-after-dark-thursday-night-2026-11-05/America-After-Dark-Thursday-Night-2026-11-05.mp3</guid>
+      <enclosure url="https://archive.org/download/america-after-dark-thursday-night-2026-11-05/America-After-Dark-Thursday-Night-2026-11-05.mp3" length="129591117" type="audio/mpeg"/>
+      <itunes:duration>2:59:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Wednesday Night, November 4, 2026 — The Premiere</title>
+      <description>The premiere of America After Dark, aired Thursday, November 5, 2026, 12:00–3:00 AM Eastern. The night's news, all researched from real reporting: Florida's Amendment 3 property-tax fight and the planned special session; Democrats taking control of Congress in the midterm elections; and the aftermath of the deadly high-speed rail crash in Spain. Plus listener calls through the night and Radio Graffiti in the final half hour — one line per caller.</description>
+      <pubDate>Thu, 05 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://archive.org/download/america-after-dark-2026-11-04/America-After-Dark-Wednesday-Night-2026-11-04.mp3</guid>
+      <enclosure url="https://archive.org/download/america-after-dark-2026-11-04/America-After-Dark-Wednesday-Night-2026-11-04.mp3" length="129794733" type="audio/mpeg"/>
+      <itunes:duration>3:00:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
