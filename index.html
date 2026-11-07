@@ -93,6 +93,12 @@
     margin-left:auto;font-family:"IBM Plex Mono",ui-monospace,monospace;
     font-size:.88rem;color:var(--navy-muted);white-space:nowrap;
   }
+  .statusbar .listen-live{
+    background:var(--amber-bright);color:var(--navy);font-weight:700;
+    padding:5px 14px;border-radius:999px;text-decoration:none;white-space:nowrap;
+    font-size:.95rem;
+  }
+  .statusbar .listen-live:hover,.statusbar .listen-live:focus{background:var(--amber-soft)}
   .status-clock b{color:var(--navy-ink);font-weight:600}
   @media (max-width:560px){
     .status-text{flex:1 1 220px}
@@ -313,6 +319,7 @@
     <span class="live-dot" id="liveDot" aria-hidden="true"></span>
     <span class="status-text" id="statusText">Checking the clock in DeLand…</span>
     <span class="status-clock">DeLand, Florida &nbsp;·&nbsp; <b id="etClock">—</b> ET</span>
+    <a class="listen-live" href="#listen" aria-label="Listen live — jump to the live player">▶ Listen live</a>
   </div>
 </div>
 
