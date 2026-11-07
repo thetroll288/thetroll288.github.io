@@ -2,56 +2,56 @@
  "episodeId": "2026-11-06-thursday-night",
  "nightLabel": "Thursday night, November 5, 2026",
  "airStart": "2026-11-06T00:00:00-05:00",
- "airLabel": "Aired Fri Nov 6, 12:00\u20133:00 AM ET",
+ "airLabel": "Aired Fri Nov 6, 12:00–3:00 AM ET",
  "status": "complete",
- "updatedAt": "2026-11-06T20:46:00-05:00",
- "note": "The most recent show, replayed here in its parts for a short time after airing. The permanent whole-show copy \u2014 playable and downloadable as one file \u2014 is in the archive below, on the Internet Archive. On show nights this player carries the new show live, part by part, from midnight ET.",
+ "updatedAt": "2026-11-07T13:43:10-05:00",
+ "note": "The most recent show, replayed here in its parts for a short time after airing. The permanent whole-show copy — playable and downloadable as one file — is in the archive below, on the Internet Archive. On show nights this player carries the new show live, part by part, from midnight ET.",
  "segments": [
   {
    "seq": 1,
    "title": "Cold Open",
    "kind": "cold_open",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1455855206509426/8wajdr0evp8pdq2v0wpvvtoj/seg01.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg01.mp3",
    "durationSec": 372.03,
    "plannedStartMin": 0.0
   },
   {
    "seq": 2,
-   "title": "Monologue \u2014 State News",
+   "title": "Monologue — State News",
    "kind": "monologue",
-   "audioUrl": "https://muse.ai/files/1426120133916873/2888106558214718/09y30l7noruq2kj28p57kk0r/seg02.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg02.mp3",
    "durationSec": 479.8,
    "plannedStartMin": 6.2
   },
   {
    "seq": 3,
-   "title": "Monologue \u2014 National News",
+   "title": "Monologue — National News",
    "kind": "monologue",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1755814332184538/5pa196by39opidgp2buqk4q2/seg03.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg03.mp3",
    "durationSec": 544.57,
    "plannedStartMin": 14.197
   },
   {
    "seq": 4,
-   "title": "Monologue \u2014 Around The World",
+   "title": "Monologue — Around The World",
    "kind": "monologue",
-   "audioUrl": "https://muse.ai/files/1426120133916873/2039118813404566/p79jmxn79eef7vihmpzxwg8y/seg04.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg04.mp3",
    "durationSec": 581.26,
    "plannedStartMin": 23.273
   },
   {
    "seq": 5,
-   "title": "Callers \u2014 Lorraine And Felix",
+   "title": "Callers — Lorraine And Felix",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1103581095773335/kkla88119fiyxi40vtaizac0/seg05.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg05.mp3",
    "durationSec": 490.72,
    "plannedStartMin": 32.961
   },
   {
    "seq": 6,
-   "title": "Callers \u2014 Nadine And Ambrose",
+   "title": "Callers — Nadine And Ambrose",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/2550929181986173/1r2vuxanm4oklkk81ysqzx7q/seg06.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg06.mp3",
    "durationSec": 452.45,
    "plannedStartMin": 41.14
   },
@@ -59,47 +59,47 @@
    "seq": 7,
    "title": "1 AM Reset",
    "kind": "reset",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1937738050724244/foz73a16u364smpbukf0twif/seg07.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg07.mp3",
    "durationSec": 323.11,
    "plannedStartMin": 48.681
   },
   {
    "seq": 8,
-   "title": "Callers \u2014 Yvette And Ezekiel",
+   "title": "Callers — Yvette And Ezekiel",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1467948498607685/vqinwhp5sjgra712gstw91zo/seg08.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg08.mp3",
    "durationSec": 427.06,
    "plannedStartMin": 54.066
   },
   {
    "seq": 9,
-   "title": "Callers \u2014 Cassandra And Tobias",
+   "title": "Callers — Cassandra And Tobias",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/2578084575953774/3c65bdpuxcd4y4qe39pp89ox/seg09.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg09.mp3",
    "durationSec": 419.71,
    "plannedStartMin": 61.183
   },
   {
    "seq": 10,
-   "title": "Callers \u2014 Marisol And Luther",
+   "title": "Callers — Marisol And Luther",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/2297150994461731/sjneh4go5na53tzrs3mnxhb7/seg10.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg10.mp3",
    "durationSec": 494.22,
    "plannedStartMin": 68.178
   },
   {
    "seq": 11,
-   "title": "Callers \u2014 Beulah And Clifford",
+   "title": "Callers — Beulah And Clifford",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/2356254451890219/427tx9p2hp2pic8ru1bo6mj0/seg11.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg11.mp3",
    "durationSec": 514.29,
    "plannedStartMin": 76.415
   },
   {
    "seq": 12,
-   "title": "Callers \u2014 Trudy And Monroe",
+   "title": "Callers — Trudy And Monroe",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1446430643616288/qfxu97pnr9xdva8g2zsfikqe/seg12.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg12.mp3",
    "durationSec": 488.59,
    "plannedStartMin": 84.987
   },
@@ -107,31 +107,31 @@
    "seq": 13,
    "title": "2 AM Reset",
    "kind": "reset",
-   "audioUrl": "https://muse.ai/files/1426120133916873/2175102399710599/99es4bsm38mufrml8k1tpeie/seg13.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg13.mp3",
    "durationSec": 464.15,
    "plannedStartMin": 93.13
   },
   {
    "seq": 14,
-   "title": "Callers \u2014 Gwendolyn And Elmer",
+   "title": "Callers — Gwendolyn And Elmer",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1658308806032043/2krokd9edla5by9bhic9ihvh/seg14.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg14.mp3",
    "durationSec": 481.9,
    "plannedStartMin": 100.866
   },
   {
    "seq": 15,
-   "title": "Callers \u2014 Selma And Grover",
+   "title": "Callers — Selma And Grover",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1033602389768236/x1uiahtavs2jtg6x2n9zl06s/seg15.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg15.mp3",
    "durationSec": 530.55,
    "plannedStartMin": 108.898
   },
   {
    "seq": 16,
-   "title": "Callers \u2014 Frances, Lemuel And Siobhan",
+   "title": "Callers — Frances, Lemuel And Siobhan",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1284390347178242/l5wttb449ue47hcsp5gkd73e/seg16.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg16.mp3",
    "durationSec": 580.17,
    "plannedStartMin": 117.74
   },
@@ -139,7 +139,7 @@
    "seq": 17,
    "title": "Radio Graffiti",
    "kind": "callers",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1449796720073254/r69jq8ktchbwb26wkh77usai/seg17.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg17.mp3",
    "durationSec": 1943.22,
    "plannedStartMin": 127.41
   },
@@ -147,7 +147,7 @@
    "seq": 18,
    "title": "Close",
    "kind": "close",
-   "audioUrl": "https://muse.ai/files/1426120133916873/1871240740858024/0mmf691jj3iwa67q3ds653oo/seg18.mp3",
+   "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-05/seg18.mp3",
    "durationSec": 1211.37,
    "plannedStartMin": 159.797
   }
