@@ -1,0 +1,155 @@
+{
+ "episodeId": "2026-11-06-thursday-night",
+ "nightLabel": "Thursday night, November 5, 2026",
+ "airStart": "2026-11-06T00:00:00-05:00",
+ "airLabel": "Aired Fri Nov 6, 12:00\u20133:00 AM ET",
+ "status": "complete",
+ "updatedAt": "2026-11-06T20:45:00-05:00",
+ "note": "The most recent show, replayed here in its parts for a short time after airing. The permanent whole-show copy \u2014 playable and downloadable as one file \u2014 is in the archive below, on the Internet Archive. On show nights this player carries the new show live, part by part, from midnight ET.",
+ "segments": [
+  {
+   "seq": 1,
+   "title": "Cold Open",
+   "kind": "cold_open",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1684732859665857/n75qe50q0chjov0ascp1se3e/seg01-with-intro.wav",
+   "durationSec": 372.03,
+   "plannedStartMin": 0.0
+  },
+  {
+   "seq": 2,
+   "title": "Monologue \u2014 State News",
+   "kind": "monologue",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1142397544805295/0r24dcr8uy9al3zb1bp8fprq/seg02.wav",
+   "durationSec": 479.8,
+   "plannedStartMin": 6.2
+  },
+  {
+   "seq": 3,
+   "title": "Monologue \u2014 National News",
+   "kind": "monologue",
+   "audioUrl": "https://muse.ai/files/1426120133916873/2292925321545428/evuig7433nm3111hxa3w1p8n/seg03.wav",
+   "durationSec": 544.57,
+   "plannedStartMin": 14.197
+  },
+  {
+   "seq": 4,
+   "title": "Monologue \u2014 Around The World",
+   "kind": "monologue",
+   "audioUrl": "https://muse.ai/files/1426120133916873/2131499344421533/5azlqpu4mxxgpv7blhcop2dp/seg04.wav",
+   "durationSec": 581.26,
+   "plannedStartMin": 23.273
+  },
+  {
+   "seq": 5,
+   "title": "Callers \u2014 Lorraine And Felix",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1085232624331224/8ofu2fsukt5wdrryh66hqpqd/seg05.wav",
+   "durationSec": 490.72,
+   "plannedStartMin": 32.961
+  },
+  {
+   "seq": 6,
+   "title": "Callers \u2014 Nadine And Ambrose",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1698591311683539/m52aim581y18qjxo97sskdt6/seg06.wav",
+   "durationSec": 452.45,
+   "plannedStartMin": 41.14
+  },
+  {
+   "seq": 7,
+   "title": "1 AM Reset",
+   "kind": "reset",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1745385680243742/cu3mozmmxxv8z1g81ciftr8u/seg07.wav",
+   "durationSec": 323.11,
+   "plannedStartMin": 48.681
+  },
+  {
+   "seq": 8,
+   "title": "Callers \u2014 Yvette And Ezekiel",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1117406110907096/j1cvqn1fpf8yw8p1c0246j87/seg08.wav",
+   "durationSec": 427.06,
+   "plannedStartMin": 54.066
+  },
+  {
+   "seq": 9,
+   "title": "Callers \u2014 Cassandra And Tobias",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/2916777802040040/89h827ik24g5he3au89o76s8/seg09.wav",
+   "durationSec": 419.71,
+   "plannedStartMin": 61.183
+  },
+  {
+   "seq": 10,
+   "title": "Callers \u2014 Marisol And Luther",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1488577023117812/8cncfy53j1b84ymlrzvpsp3e/seg10.wav",
+   "durationSec": 494.22,
+   "plannedStartMin": 68.178
+  },
+  {
+   "seq": 11,
+   "title": "Callers \u2014 Beulah And Clifford",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1073555865720227/3ec3dq4jrnh8r4kp0hahkuwd/seg11.wav",
+   "durationSec": 514.29,
+   "plannedStartMin": 76.415
+  },
+  {
+   "seq": 12,
+   "title": "Callers \u2014 Trudy And Monroe",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/2082808812359421/wplc44j5ix1jed2fjdy4as8f/seg12.wav",
+   "durationSec": 488.59,
+   "plannedStartMin": 84.987
+  },
+  {
+   "seq": 13,
+   "title": "2 AM Reset",
+   "kind": "reset",
+   "audioUrl": "https://muse.ai/files/1426120133916873/2182832759337802/6nd8emute5t5squ4m42unxyr/seg13.wav",
+   "durationSec": 464.15,
+   "plannedStartMin": 93.13
+  },
+  {
+   "seq": 14,
+   "title": "Callers \u2014 Gwendolyn And Elmer",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1065072376589661/8u1r81rpbd35kep6m3ljjj6u/seg14.wav",
+   "durationSec": 481.9,
+   "plannedStartMin": 100.866
+  },
+  {
+   "seq": 15,
+   "title": "Callers \u2014 Selma And Grover",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1514772653819983/22bxs8l0by7dbt25aab7ktgr/seg15.wav",
+   "durationSec": 530.55,
+   "plannedStartMin": 108.898
+  },
+  {
+   "seq": 16,
+   "title": "Callers \u2014 Frances, Lemuel And Siobhan",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1753837149010417/f27lrowrsqmrn4rbk52smcek/seg16.wav",
+   "durationSec": 580.17,
+   "plannedStartMin": 117.74
+  },
+  {
+   "seq": 17,
+   "title": "Radio Graffiti",
+   "kind": "callers",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1140361732284615/mmu0dusm8rrgnyufutknx6lw/seg17.wav",
+   "durationSec": 1943.22,
+   "plannedStartMin": 127.41
+  },
+  {
+   "seq": 18,
+   "title": "Close",
+   "kind": "close",
+   "audioUrl": "https://muse.ai/files/1426120133916873/1141387218428539/o61d9i6uo0veqlnesd87fwa5/seg18.wav",
+   "durationSec": 1211.37,
+   "plannedStartMin": 159.797
+  }
+ ]
+}

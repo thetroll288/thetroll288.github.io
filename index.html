@@ -255,6 +255,29 @@
   .archive-list strong{color:var(--ink);display:block;font-size:1.02rem}
   @media (max-width:880px){.listen-grid{grid-template-columns:1fr;gap:40px}}
 
+  /* Public live player */
+  .live-card{background:var(--navy);color:var(--navy-ink);border-radius:var(--radius);padding:26px 28px;box-shadow:var(--shadow);margin-bottom:34px;border-top:4px solid var(--amber-bright)}
+  .live-card-head{display:flex;justify-content:space-between;gap:10px 18px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+  .live-pill{display:inline-flex;gap:9px;align-items:center;font-weight:700;font-size:.92rem;letter-spacing:.05em;text-transform:uppercase;color:var(--amber-soft)}
+  .live-pill .live-dot{background:var(--navy-muted)}
+  .live-pill.onair{color:#ffb3ab}
+  .live-pill.onair .live-dot{background:var(--onair-dot);box-shadow:0 0 0 5px rgba(229,72,63,.22);animation:pulse 1.8s ease-in-out infinite}
+  .live-clock{font-family:"IBM Plex Mono",ui-monospace,monospace;color:var(--navy-muted);font-size:.93rem}
+  .live-title{font-family:"IBM Plex Serif",Georgia,serif;font-size:1.55rem;margin:0 0 4px;color:var(--navy-ink);font-weight:600}
+  .live-now{color:var(--navy-muted);margin:0 0 14px;font-size:1rem}
+  .live-card audio{width:100%;margin:2px 0 14px}
+  .live-btns{display:flex;gap:12px;flex-wrap:wrap}
+  .live-btns button{cursor:pointer;border-radius:999px;padding:11px 24px;font-weight:700;font-size:1rem;border:1px solid transparent;font-family:inherit}
+  #btnJoinLive{background:var(--amber-bright);color:#161a26}
+  #btnFromTop{background:transparent;color:var(--navy-ink);border-color:var(--line-strong)}
+  .live-btns button:disabled{opacity:.45;cursor:default}
+  .live-note{color:var(--navy-muted);font-size:.92rem;margin:12px 0 0;line-height:1.55}
+  .live-segs{list-style:none;margin:18px 0 0;padding:12px 0 0;border-top:1px solid rgba(238,240,247,.16);display:grid;gap:2px;max-height:308px;overflow:auto}
+  .live-segs button{width:100%;text-align:left;background:transparent;border:0;color:var(--navy-ink);padding:8px 10px;border-radius:8px;cursor:pointer;font-size:.97rem;font-family:inherit;display:flex;gap:14px;align-items:baseline}
+  .live-segs button:hover{background:rgba(238,240,247,.08)}
+  .live-segs button.current{background:rgba(238,240,247,.13);color:var(--amber-soft)}
+  .live-segs .seg-clock{font-family:"IBM Plex Mono",ui-monospace,monospace;color:var(--navy-muted);flex:none;font-size:.9rem}
+
   /* FAQ */
   .faq{max-width:820px}
   details{border:1px solid var(--line);background:var(--surface);border-radius:10px}
@@ -588,25 +611,40 @@
         <div class="rule" aria-hidden="true"></div>
         <h2 id="listen-h">Listen live — and listen later</h2>
         <p>
-          This is the show’s public home. Past shows play right here for anyone, in the
-          archive below, as soon as each night is finished and posted. Listening live,
-          while a night is being made, still happens in the show’s private live player
-          for now — there is no public live stream or live link on this page yet.
-          Either way, it’s built for how late-night radio is actually heard: on a phone,
-          in bed, through speakers.
+          This is the show’s public home, and you can hear the show live right here:
+          the player below picks up each part of tonight’s show as it’s made, from
+          midnight to 3 AM Eastern — no sign-in, no account, just press play. Past
+          shows play in the archive further down, for anyone, as soon as each night
+          is finished and posted. It’s built for how late-night radio is actually
+          heard: on a phone, in bed, through speakers.
         </p>
+      </div>
+      <div class="live-card" id="liveCard">
+        <div class="live-card-head">
+          <span class="live-pill" id="livePill"><span class="live-dot" aria-hidden="true"></span><span id="livePillText">Loading the latest show…</span></span>
+          <span class="live-clock" id="liveAirLabel"></span>
+        </div>
+        <h3 class="live-title" id="liveTitle">America After Dark — live</h3>
+        <p class="live-now" id="liveNow">Checking what’s on…</p>
+        <audio id="liveAudio" controls preload="none"></audio>
+        <div class="live-btns">
+          <button type="button" id="btnJoinLive" disabled>Join live</button>
+          <button type="button" id="btnFromTop">From the top</button>
+        </div>
+        <p class="live-note" id="liveNote"></p>
+        <ol class="live-segs" id="liveSegs"></ol>
       </div>
       <div class="listen-grid">
         <div class="listen-block">
           <h3>Live, as it’s made</h3>
-          <p class="lb-sub">The show is produced inside its own air window — midnight to 3 AM Eastern — so in the live player it’s heard as it unfolds, not as a recording made days earlier.</p>
+          <p class="lb-sub">The show is produced inside its own air window — midnight to 3 AM Eastern — so the player above plays it as it unfolds, not as a recording made days earlier. No sign-in is needed: this page is open to everyone.</p>
           <ol class="steps">
-            <li><strong>There is no public live stream yet.</strong> While a night is on, it can only be heard in the show’s private live player — this website cannot play the show live, and there is no live link here to follow.</li>
-            <li><strong>In the private live player, a little before midnight.</strong> Tonight’s episode appears under its named night — Wednesday night’s show, and so on — and the first segment lands a few minutes after midnight; press play and you’re on the air.</li>
-            <li><strong>Join live, or start from the top.</strong> New segments queue up in air order and play back-to-back until the 3 AM close. Coming in late costs you nothing.</li>
-            <li><strong>Put it on the speakers.</strong> Press play on your phone and the show plays like any media audio — out through your Bluetooth speakers while the 180-minute program clock keeps your place in the night.</li>
+            <li><strong>Open this page a little before midnight.</strong> Tonight’s episode appears in the player above under its named night — Wednesday night’s show, and so on.</li>
+            <li><strong>Wait for the opening to land.</strong> The first part of the show arrives a few minutes after midnight. Press <strong>Join live</strong> to hear the newest part as it comes in, or <strong>From the top</strong> to start the night from the beginning.</li>
+            <li><strong>New parts queue up behind you.</strong> As each part is finished it joins the player in air order and plays back-to-back until the 3 AM close — the page checks for new parts on its own, so just leave it playing. Coming in late costs you nothing.</li>
+            <li><strong>Put it on the speakers.</strong> Press play on your phone and the show plays like any media audio — out through your Bluetooth speakers while the 180-minute program clock in the player keeps your place in the night.</li>
           </ol>
-          <p class="lb-sub">Everyone else catches the finished night here: once a show is complete and verified, the whole three hours are posted in the archive on this page.</p>
+          <p class="lb-sub">Outside show hours, the player carries the most recent show as a replay for a short while; after that, every show lives permanently in the archive below.</p>
         </div>
         <div class="listen-block" id="archive">
           <h3>The archive — every show, kept whole</h3>
@@ -654,7 +692,7 @@
         <details>
           <summary>Can I listen on my phone, through Bluetooth speakers?<span class="chev" aria-hidden="true">+</span></summary>
           <div class="faq-body">
-            <p>Yes — that’s the way it’s most often heard. The past shows in the archive on this page play right on your phone, through your Bluetooth speakers like any other audio. Live listening works the same way in the show’s private live player: connect your speakers, and press play once the first segment lands a few minutes after midnight. If your phone does interrupt playback overnight, the complete show is waiting in the archive by morning.</p>
+            <p>Yes — that’s the way it’s most often heard. The live player on this page and the past shows in the archive both play right on your phone, through your Bluetooth speakers like any other audio: connect your speakers, and press play once the first part of the show lands a few minutes after midnight. If your phone does interrupt playback overnight, the complete show is waiting in the archive by morning.</p>
           </div>
         </details>
         <details>
@@ -666,7 +704,7 @@
         <details>
           <summary>Does the show still happen if nobody’s watching the page?<span class="chev" aria-hidden="true">+</span></summary>
           <div class="faq-body">
-            <p>Yes. Production runs on its weeknight schedule, midnight to 3 AM Eastern, whether or not anyone is signed in or listening at that moment. The finished night is then posted in the archive on this page for everyone — the show airs either way.</p>
+            <p>Yes. Production runs on its weeknight schedule, midnight to 3 AM Eastern, whether or not anyone is signed in or listening at that moment. Listen live right here as it’s made, or catch the finished night in the archive on this page — the show airs either way.</p>
           </div>
         </details>
         <details>
@@ -678,7 +716,7 @@
         <details>
           <summary>Is this the show’s own website?<span class="chev" aria-hidden="true">+</span></summary>
           <div class="faq-body">
-            <p>Yes — you’re on it. americaafterdarkradio.com is America After Dark’s public home, and the full archive of finished shows is posted here. One thing this site does not have yet is live listening: while a night is on, the show is heard in its private live player, and the complete show appears here in the archive once the night is finished.</p>
+            <p>Yes — you’re on it. americaafterdarkradio.com is America After Dark’s public home: you can listen live right here while a night is on, with no sign-in, and the full archive of finished shows is posted here too.</p>
           </div>
         </details>
       </div>
@@ -803,6 +841,152 @@
   }
   tick();
   setInterval(tick, 1000);
+})();
+</script>
+<script>
+(function(){
+  var audio = document.getElementById("liveAudio");
+  if (!audio) return;
+  var pill = document.getElementById("livePill");
+  var pillText = document.getElementById("livePillText");
+  var airLabel = document.getElementById("liveAirLabel");
+  var titleEl = document.getElementById("liveTitle");
+  var nowEl = document.getElementById("liveNow");
+  var noteEl = document.getElementById("liveNote");
+  var segsEl = document.getElementById("liveSegs");
+  var btnLive = document.getElementById("btnJoinLive");
+  var btnTop = document.getElementById("btnFromTop");
+
+  var feed = null, curSeq = null, waiting = false;
+
+  function pad(n){ return (n<10 ? "0" : "") + n; }
+  function fmt(sec){
+    sec = Math.max(0, Math.floor(sec));
+    return Math.floor(sec/3600) + ":" + pad(Math.floor(sec%3600/60)) + ":" + pad(sec%60);
+  }
+  function fmtStart(sec){
+    var m = Math.floor(sec/60);
+    return Math.floor(m/60) + ":" + pad(m%60);
+  }
+  function find(seq){
+    if (!feed) return null;
+    for (var i=0;i<feed.segments.length;i++) if (feed.segments[i].seq === seq) return feed.segments[i];
+    return null;
+  }
+  function segStart(s){ return (s.plannedStartMin || 0) * 60; }
+
+  function renderSegs(){
+    segsEl.innerHTML = "";
+    if (!feed) return;
+    feed.segments.forEach(function(s){
+      var li = document.createElement("li");
+      var b = document.createElement("button");
+      b.type = "button";
+      if (s.seq === curSeq) b.className = "current";
+      var c = document.createElement("span");
+      c.className = "seg-clock";
+      c.textContent = fmtStart(segStart(s));
+      var t = document.createElement("span");
+      t.textContent = s.title;
+      b.appendChild(c); b.appendChild(t);
+      b.addEventListener("click", function(){ playSeq(s.seq, 0); });
+      li.appendChild(b);
+      segsEl.appendChild(li);
+    });
+  }
+
+  function updateNow(){
+    if (!feed) return;
+    var s = find(curSeq);
+    if (s){
+      nowEl.textContent = "Now playing: " + s.title + " — program clock " +
+        fmt(segStart(s) + (audio.currentTime || 0)) + " of 3:00:00";
+    } else if (feed.segments.length){
+      nowEl.textContent = feed.segments.length + (feed.segments.length===1 ? " part is" : " parts are") +
+        " ready — press From the top, Join live while the show is on, or pick a part below.";
+    } else {
+      nowEl.textContent = "No parts published yet — the opening lands a few minutes after midnight.";
+    }
+  }
+
+  function updatePill(){
+    if (!feed) return;
+    var now = new Date();
+    var start = feed.airStart ? new Date(feed.airStart) : null;
+    var end = start ? new Date(start.getTime() + 3*3600*1000) : null;
+    var onAir = feed.status === "live" && start && now >= start && now <= end;
+    var upcoming = feed.status === "live" && start && now < start;
+    pill.classList.toggle("onair", !!onAir);
+    pillText.textContent = onAir ? "On the air now" :
+      upcoming ? "Tonight — starts midnight ET" :
+      feed.status === "live" ? "Most recent show — replay" : "Latest show — replay";
+    btnLive.disabled = !onAir || !feed.segments.length;
+    titleEl.textContent = feed.nightLabel ? ("America After Dark — " + feed.nightLabel) : "America After Dark";
+    airLabel.textContent = feed.airLabel || "";
+    noteEl.textContent = feed.note || "";
+  }
+
+  function playSeq(seq, offset){
+    var s = find(seq);
+    if (!s) return;
+    var needLoad = (curSeq !== seq) || !audio.src;
+    curSeq = seq; waiting = false;
+    if (needLoad){ audio.src = s.audioUrl; audio.load(); }
+    function go(){
+      if (offset){ try { audio.currentTime = offset; } catch(e){} }
+      var p = audio.play();
+      if (p && p.catch) p.catch(function(){});
+    }
+    if (needLoad){
+      audio.addEventListener("loadedmetadata", function h(){
+        audio.removeEventListener("loadedmetadata", h); go();
+      });
+    } else { go(); }
+    renderSegs(); updateNow(); updatePill();
+  }
+
+  function loadFeed(){
+    fetch("live.json?ts=" + Date.now(), {cache:"no-store"})
+      .then(function(r){ return r.json(); })
+      .then(function(j){
+        var wasWaiting = waiting;
+        var oldCount = feed ? feed.segments.length : 0;
+        feed = j;
+        feed.segments = (feed.segments || []).slice().sort(function(a,b){ return a.seq - b.seq; });
+        updatePill(); renderSegs(); updateNow();
+        if (wasWaiting && feed.segments.length > oldCount){
+          var nxt = find(curSeq + 1) || feed.segments[feed.segments.length - 1];
+          if (nxt) playSeq(nxt.seq, 0);
+        }
+      })
+      .catch(function(){
+        pillText.textContent = "Player unavailable just now";
+        nowEl.textContent = "The live player could not load — the finished shows in the archive below still play.";
+      });
+  }
+
+  audio.addEventListener("ended", function(){
+    if (!feed) return;
+    var nxt = find(curSeq + 1);
+    if (nxt){ playSeq(nxt.seq, 0); return; }
+    if (feed.status === "live"){
+      waiting = true;
+      nowEl.textContent = "That is the newest part published so far — waiting for the next one. This page checks on its own, and playback continues when it lands.";
+    } else {
+      nowEl.textContent = "That is the whole show — thank you for listening. The permanent copy is in the archive below.";
+    }
+  });
+  audio.addEventListener("timeupdate", updateNow);
+  btnLive.addEventListener("click", function(){
+    if (feed && feed.segments.length) playSeq(feed.segments[feed.segments.length - 1].seq, 0);
+  });
+  btnTop.addEventListener("click", function(){
+    if (feed && feed.segments.length) playSeq(feed.segments[0].seq, 0);
+  });
+
+  loadFeed();
+  setInterval(loadFeed, 45000);
+  setInterval(updatePill, 30000);
 })();
 </script>
 </body>
