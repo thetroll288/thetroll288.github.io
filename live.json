@@ -4,7 +4,7 @@
   "airStart": "2026-11-08T00:00:00-05:00",
   "airLabel": "Airing Sun Nov 8, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-08T00:07:59.953485-05:00",
+  "updatedAt": "2026-11-08T04:58:11.640993-05:00",
   "note": "Live tonight from midnight ET: the Saturday night show, part by part as it is made, with the first hour banked before air. The permanent whole-show copy will join the archive below after the show.",
   "segments": [
     {
@@ -12,7 +12,7 @@
       "title": "Cold Open",
       "kind": "cold_open",
       "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg01.mp3",
-      "durationSec": 330.0,
+      "durationSec": 402.16,
       "plannedStartMin": 0.0
     },
     {
@@ -20,8 +20,8 @@
       "title": "Monologue \u2014 State News",
       "kind": "monologue",
       "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg02.mp3",
-      "durationSec": 425.89,
-      "plannedStartMin": 5.5
+      "durationSec": 568.15,
+      "plannedStartMin": 6.703
     },
     {
       "seq": 3,
@@ -29,39 +29,111 @@
       "kind": "monologue",
       "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg03.mp3",
       "durationSec": 540.89,
-      "plannedStartMin": 12.598
+      "plannedStartMin": 16.172
     },
     {
       "seq": 4,
       "title": "Monologue \u2014 Around The World",
       "kind": "monologue",
       "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg04.mp3",
-      "durationSec": 428.12,
-      "plannedStartMin": 21.613
+      "durationSec": 576.25,
+      "plannedStartMin": 25.187
     },
     {
       "seq": 5,
       "title": "Callers \u2014 Kip And Willa",
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg05.mp3",
-      "durationSec": 378.81,
-      "plannedStartMin": 28.748
+      "durationSec": 530.86,
+      "plannedStartMin": 34.791
     },
     {
       "seq": 6,
       "title": "Callers \u2014 Trent And Mara",
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg06.mp3",
-      "durationSec": 386.0,
-      "plannedStartMin": 35.062
+      "durationSec": 520.48,
+      "plannedStartMin": 43.639
     },
     {
       "seq": 7,
       "title": "1 AM Reset",
       "kind": "reset",
       "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg07.mp3",
-      "durationSec": 159.82,
-      "plannedStartMin": 41.495
+      "durationSec": 250.98,
+      "plannedStartMin": 52.313
+    },
+    {
+      "seq": 8,
+      "title": "Callers \u2014 Leo And Priya",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg08.mp3",
+      "durationSec": 417.45,
+      "plannedStartMin": 56.496
+    },
+    {
+      "seq": 9,
+      "title": "Callers \u2014 Micah And Laurel",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg09.mp3",
+      "durationSec": 291.83,
+      "plannedStartMin": 63.453
+    },
+    {
+      "seq": 10,
+      "title": "Callers \u2014 Kurt And Megan",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg10.mp3",
+      "durationSec": 407.92,
+      "plannedStartMin": 68.317
+    },
+    {
+      "seq": 11,
+      "title": "Callers \u2014 Murray And Sylvia",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg11.mp3",
+      "durationSec": 319.07,
+      "plannedStartMin": 75.116
+    },
+    {
+      "seq": 12,
+      "title": "Callers \u2014 Warren And Nina",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg12.mp3",
+      "durationSec": 489.94,
+      "plannedStartMin": 80.434
+    },
+    {
+      "seq": 13,
+      "title": "2 AM Reset",
+      "kind": "reset",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg13.mp3",
+      "durationSec": 235.04,
+      "plannedStartMin": 88.6
+    },
+    {
+      "seq": 14,
+      "title": "Callers \u2014 Owen And Paige",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg14.mp3",
+      "durationSec": 304.26,
+      "plannedStartMin": 92.517
+    },
+    {
+      "seq": 15,
+      "title": "Callers \u2014 Victor And Renee",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg15.mp3",
+      "durationSec": 740.23,
+      "plannedStartMin": 97.588
+    },
+    {
+      "seq": 16,
+      "title": "Callers \u2014 Max And Aoife",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg16.mp3",
+      "durationSec": 568.57,
+      "plannedStartMin": 109.925
     }
   ]
 }
