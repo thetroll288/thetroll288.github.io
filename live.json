@@ -3,9 +3,9 @@
   "nightLabel": "Sunday night, November 8, 2026",
   "airStart": "2026-11-09T00:00:00-05:00",
   "airLabel": "Airing Mon Nov 9, 12:00\u20133:00 AM ET",
-  "status": "live",
-  "updatedAt": "2026-11-09T00:28:12.732876-05:00",
-  "note": "Live tonight from DeLand, Florida \u2014 Dudley Duke with real State, National and International news, callers from across America and around the world, and Radio Graffiti in the final half hour.",
+  "status": "complete",
+  "updatedAt": "2026-11-09T02:06:58.664210-05:00",
+  "note": "The Sunday night show has aired in full \u2014 all three hours, 12:00\u20133:00 AM ET. Replay the whole night below, or download it as one file from the archive.",
   "segments": [
     {
       "seq": 1,
@@ -13,7 +13,7 @@
       "kind": "cold_open",
       "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg01.mp3",
       "durationSec": 350.08,
-      "plannedStartMin": 0
+      "plannedStartMin": 0.0
     },
     {
       "seq": 2,
@@ -21,7 +21,7 @@
       "kind": "monologue",
       "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg02.mp3",
       "durationSec": 679.0,
-      "plannedStartMin": null
+      "plannedStartMin": 5.835
     },
     {
       "seq": 3,
@@ -29,7 +29,63 @@
       "kind": "monologue",
       "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg03.mp3",
       "durationSec": 604.67,
-      "plannedStartMin": 15.223
+      "plannedStartMin": 17.151
+    },
+    {
+      "seq": 4,
+      "title": "Monologue \u2014 Around The World",
+      "kind": "monologue",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg04.mp3",
+      "durationSec": 697.44,
+      "plannedStartMin": 27.229
+    },
+    {
+      "seq": 5,
+      "title": "Callers \u2014 Aiden And Adriana",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg05.mp3",
+      "durationSec": 780.76,
+      "plannedStartMin": 38.853
+    },
+    {
+      "seq": 6,
+      "title": "Callers \u2014 Jesse And Danita",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg06.mp3",
+      "durationSec": 789.79,
+      "plannedStartMin": 51.866
+    },
+    {
+      "seq": 7,
+      "title": "1 AM Reset",
+      "kind": "reset",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg07.mp3",
+      "durationSec": 339.37,
+      "plannedStartMin": 65.029
+    },
+    {
+      "seq": 8,
+      "title": "Callers \u2014 Joel And Gertie",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg08.mp3",
+      "durationSec": 640.4,
+      "plannedStartMin": 70.685
+    },
+    {
+      "seq": 9,
+      "title": "Callers \u2014 John And Jackie",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg09.mp3",
+      "durationSec": 487.12,
+      "plannedStartMin": 81.359
+    },
+    {
+      "seq": 10,
+      "title": "Callers \u2014 Jonathan And Janet",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg10.mp3",
+      "durationSec": 628.32,
+      "plannedStartMin": 89.477
     },
     {
       "seq": 11,
@@ -37,7 +93,7 @@
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg11.mp3",
       "durationSec": 543.06,
-      "plannedStartMin": null
+      "plannedStartMin": 99.949
     },
     {
       "seq": 12,
@@ -45,7 +101,7 @@
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg12.mp3",
       "durationSec": 592.25,
-      "plannedStartMin": null
+      "plannedStartMin": 109.0
     },
     {
       "seq": 13,
@@ -53,7 +109,47 @@
       "kind": "reset",
       "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg13.mp3",
       "durationSec": 370.39,
-      "plannedStartMin": null
+      "plannedStartMin": 118.871
+    },
+    {
+      "seq": 14,
+      "title": "Callers \u2014 Jose And Jeanne",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg14.mp3",
+      "durationSec": 558.8,
+      "plannedStartMin": 125.044
+    },
+    {
+      "seq": 15,
+      "title": "Callers \u2014 Joseph And Jennifer",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg15.mp3",
+      "durationSec": 585.97,
+      "plannedStartMin": 134.357
+    },
+    {
+      "seq": 16,
+      "title": "Callers \u2014 Joshua And Jessica",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg16.mp3",
+      "durationSec": 797.17,
+      "plannedStartMin": 144.124
+    },
+    {
+      "seq": 17,
+      "title": "Radio Graffiti",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg17.mp3",
+      "durationSec": 1081.34,
+      "plannedStartMin": 157.41
+    },
+    {
+      "seq": 18,
+      "title": "Radio Graffiti And Close",
+      "kind": "close",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg18.mp3",
+      "durationSec": 273.95,
+      "plannedStartMin": 175.432
     }
   ]
 }
