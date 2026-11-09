@@ -1,155 +1,35 @@
 {
-  "episodeId": "2026-11-08-saturday-night",
-  "nightLabel": "Saturday night, November 7, 2026",
-  "airStart": "2026-11-08T00:00:00-05:00",
-  "airLabel": "Aired Sun Nov 8, 12:00\u20133:00 AM ET",
-  "status": "complete",
-  "updatedAt": "2026-11-08T07:38:44.027977-05:00",
-  "note": "Saturday night's show, complete. The whole show is also on the Internet Archive as one file \u2014 see the archive below.",
+  "episodeId": "2026-11-09-sunday-night",
+  "nightLabel": "Sunday night, November 8, 2026",
+  "airStart": "2026-11-09T00:00:00-05:00",
+  "airLabel": "Airing Mon Nov 9, 12:00\u20133:00 AM ET",
+  "status": "live",
+  "updatedAt": "2026-11-08T23:59:00-05:00",
+  "note": "Live tonight from DeLand, Florida \u2014 Dudley Duke with real State, National and International news, callers from across America and around the world, and Radio Graffiti in the final half hour.",
   "segments": [
     {
       "seq": 1,
       "title": "Cold Open",
       "kind": "cold_open",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg01.mp3",
-      "durationSec": 329.53,
-      "plannedStartMin": 0.0
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg01.mp3",
+      "durationSec": 350.08,
+      "plannedStartMin": 0
     },
     {
       "seq": 2,
       "title": "Monologue \u2014 State News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg02.mp3",
-      "durationSec": 568.15,
-      "plannedStartMin": 5.492
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg02.mp3",
+      "durationSec": 563.31,
+      "plannedStartMin": 5.835
     },
     {
       "seq": 3,
       "title": "Monologue \u2014 National News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg03.mp3",
-      "durationSec": 394.44,
-      "plannedStartMin": 14.961
-    },
-    {
-      "seq": 4,
-      "title": "Monologue \u2014 Around The World",
-      "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg04.mp3",
-      "durationSec": 576.25,
-      "plannedStartMin": 21.535
-    },
-    {
-      "seq": 5,
-      "title": "Callers \u2014 Kip And Willa",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg05.mp3",
-      "durationSec": 530.86,
-      "plannedStartMin": 31.139
-    },
-    {
-      "seq": 6,
-      "title": "Callers \u2014 Trent And Mara",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg06.mp3",
-      "durationSec": 520.48,
-      "plannedStartMin": 39.987
-    },
-    {
-      "seq": 7,
-      "title": "1 AM Reset",
-      "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg07.mp3",
-      "durationSec": 250.98,
-      "plannedStartMin": 48.662
-    },
-    {
-      "seq": 8,
-      "title": "Callers \u2014 Leo And Priya",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg08.mp3",
-      "durationSec": 417.45,
-      "plannedStartMin": 52.845
-    },
-    {
-      "seq": 9,
-      "title": "Callers \u2014 Micah And Laurel",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg09.mp3",
-      "durationSec": 291.83,
-      "plannedStartMin": 59.802
-    },
-    {
-      "seq": 10,
-      "title": "Callers \u2014 Kurt And Megan",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg10.mp3",
-      "durationSec": 407.92,
-      "plannedStartMin": 64.666
-    },
-    {
-      "seq": 11,
-      "title": "Callers \u2014 Murray And Sylvia",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg11.mp3",
-      "durationSec": 319.07,
-      "plannedStartMin": 71.465
-    },
-    {
-      "seq": 12,
-      "title": "Callers \u2014 Warren And Nina",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg12.mp3",
-      "durationSec": 489.94,
-      "plannedStartMin": 76.783
-    },
-    {
-      "seq": 13,
-      "title": "2 AM Reset",
-      "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg13.mp3",
-      "durationSec": 235.04,
-      "plannedStartMin": 84.948
-    },
-    {
-      "seq": 14,
-      "title": "Callers \u2014 Owen And Paige",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg14.mp3",
-      "durationSec": 304.26,
-      "plannedStartMin": 88.866
-    },
-    {
-      "seq": 15,
-      "title": "Callers \u2014 Victor And Renee",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg15.mp3",
-      "durationSec": 522.15,
-      "plannedStartMin": 93.937
-    },
-    {
-      "seq": 16,
-      "title": "Callers \u2014 Max And Aoife",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg16.mp3",
-      "durationSec": 563.91,
-      "plannedStartMin": 102.639
-    },
-    {
-      "seq": 17,
-      "title": "Radio Graffiti",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg17.mp3",
-      "durationSec": 1424.48,
-      "plannedStartMin": 112.038
-    },
-    {
-      "seq": 18,
-      "title": "Radio Graffiti And Close",
-      "kind": "close",
-      "audioUrl": "https://archive.org/download/america-after-dark-saturday-night-2026-11-07/seg18.mp3",
-      "durationSec": 1594.75,
-      "plannedStartMin": 135.779
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg03.mp3",
+      "durationSec": 604.67,
+      "plannedStartMin": 15.223
     }
   ]
 }
