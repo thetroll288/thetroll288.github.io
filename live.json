@@ -4,7 +4,7 @@
   "airStart": "2026-11-09T00:00:00-05:00",
   "airLabel": "Airing Mon Nov 9, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-08T23:59:00-05:00",
+  "updatedAt": "2026-11-09T00:28:12.732876-05:00",
   "note": "Live tonight from DeLand, Florida \u2014 Dudley Duke with real State, National and International news, callers from across America and around the world, and Radio Graffiti in the final half hour.",
   "segments": [
     {
@@ -20,8 +20,8 @@
       "title": "Monologue \u2014 State News",
       "kind": "monologue",
       "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg02.mp3",
-      "durationSec": 563.31,
-      "plannedStartMin": 5.835
+      "durationSec": 679.0,
+      "plannedStartMin": null
     },
     {
       "seq": 3,
@@ -30,6 +30,30 @@
       "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg03.mp3",
       "durationSec": 604.67,
       "plannedStartMin": 15.223
+    },
+    {
+      "seq": 11,
+      "title": "Callers \u2014 Jordan And Janice",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg11.mp3",
+      "durationSec": 543.06,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 12,
+      "title": "Callers \u2014 Jorge And Jean",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg12.mp3",
+      "durationSec": 592.25,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 13,
+      "title": "2 AM Reset",
+      "kind": "reset",
+      "audioUrl": "https://archive.org/download/america-after-dark-sunday-night-2026-11-08/seg13.mp3",
+      "durationSec": 370.39,
+      "plannedStartMin": null
     }
   ]
 }
