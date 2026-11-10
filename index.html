@@ -1000,9 +1000,38 @@
     }
   });
   audio.addEventListener("timeupdate", updateNow);
-  btnLive.addEventListener("click", function(){
-    if (feed && feed.segments.length) playSeq(feed.segments[feed.segments.length - 1].seq, 0);
-  });
+  function joinLive(){
+    if (!feed || !feed.segments.length) return;
+    var start = feed.airStart ? new Date(feed.airStart).getTime() : NaN;
+    if (isNaN(start)){
+      playSeq(feed.segments[feed.segments.length - 1].seq, 0);
+      return;
+    }
+    var total = 0;
+    feed.segments.forEach(function(s){ total += s.durationSec || 0; });
+    var elapsed = (Date.now() - start) / 1000;
+    if (elapsed <= 0){ playSeq(feed.segments[0].seq, 0); return; }
+    if (total <= 0){
+      playSeq(feed.segments[feed.segments.length - 1].seq, 0);
+      return;
+    }
+    // Land at the live edge: the elapsed position, clamped to the end of
+    // the newest published audio when production is behind the clock.
+    // When the bank runs dry this lands at the tail of the last part, so
+    // the player waits there and resumes on its own when the next part lands.
+    var target = Math.min(elapsed, total - 1);
+    var cum = 0;
+    for (var i = 0; i < feed.segments.length; i++){
+      var s = feed.segments[i];
+      var d = s.durationSec || 0;
+      if (target < cum + d || i === feed.segments.length - 1){
+        playSeq(s.seq, Math.max(0, target - cum));
+        return;
+      }
+      cum += d;
+    }
+  }
+  btnLive.addEventListener("click", joinLive);
   btnTop.addEventListener("click", function(){
     if (feed && feed.segments.length) playSeq(feed.segments[0].seq, 0);
   });
