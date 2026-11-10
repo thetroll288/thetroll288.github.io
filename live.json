@@ -4,7 +4,7 @@
   "airStart": "2026-11-10T00:00:00-05:00",
   "airLabel": "Airing Tue Nov 10, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-09T23:59:55.201387-05:00",
+  "updatedAt": "2026-11-10T00:07:19.198325-05:00",
   "note": "Live tonight from midnight \u2014 the first hour is banked and ready.",
   "segments": [
     {
@@ -61,6 +61,14 @@
       "kind": "reset",
       "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg07.mp3",
       "durationSec": 297.59,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 8,
+      "title": "Callers \u2014 Karl And Margaret",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg08.mp3",
+      "durationSec": 734.85,
       "plannedStartMin": null
     }
   ]
