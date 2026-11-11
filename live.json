@@ -3,9 +3,9 @@
   "nightLabel": "Tuesday night, November 10, 2026",
   "airStart": "2026-11-11T00:00:00-05:00",
   "airLabel": "Airing Wed Nov 11, 12:00\u20133:00 AM ET",
-  "status": "live",
-  "updatedAt": "2026-11-11T00:04:16.631550-05:00",
-  "note": "Live tonight from midnight \u2014 the first hour is banked and ready.",
+  "status": "complete",
+  "updatedAt": "2026-11-11T02:45:45.170033-05:00",
+  "note": "The full three hours have aired. Tuesday night, November 10, 2026 is complete and in the archive below.",
   "segments": [
     {
       "seq": 1,
@@ -69,6 +69,86 @@
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg08.mp3",
       "durationSec": 546.73,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 9,
+      "title": "Callers \u2014 Boone And Farrah",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg09.mp3",
+      "durationSec": 538.6,
+      "plannedStartMin": 58.71
+    },
+    {
+      "seq": 10,
+      "title": "Callers \u2014 Thatcher And Noelle",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg10.mp3",
+      "durationSec": 480.66,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 11,
+      "title": "Callers \u2014 Darius And Odette",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg11.mp3",
+      "durationSec": 532.48,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 12,
+      "title": "Callers \u2014 Merritt And Simone",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg12.mp3",
+      "durationSec": 507.66,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 13,
+      "title": "2 AM Reset",
+      "kind": "reset",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg13.mp3",
+      "durationSec": 207.23,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 14,
+      "title": "Callers \u2014 Callahan And Paloma",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg14.mp3",
+      "durationSec": 459.17,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 15,
+      "title": "Callers \u2014 Brantley And Elodie",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg15.mp3",
+      "durationSec": 824.07,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 16,
+      "title": "Callers \u2014 Waylon And Tatiana",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg16.mp3",
+      "durationSec": 834.45,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 17,
+      "title": "Radio Graffiti",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg17.mp3",
+      "durationSec": 1492.89,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 18,
+      "title": "Radio Graffiti And Close",
+      "kind": "close",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg18.mp3",
+      "durationSec": 1400.57,
       "plannedStartMin": null
     }
   ]
