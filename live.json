@@ -4,7 +4,7 @@
   "airStart": "2026-11-11T00:00:00-05:00",
   "airLabel": "Airing Wed Nov 11, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-10T23:40:27.296924-05:00",
+  "updatedAt": "2026-11-11T00:04:16.631550-05:00",
   "note": "Live tonight from midnight \u2014 the first hour is banked and ready.",
   "segments": [
     {
@@ -61,6 +61,14 @@
       "kind": "reset",
       "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg07.mp3",
       "durationSec": 229.11,
+      "plannedStartMin": null
+    },
+    {
+      "seq": 8,
+      "title": "Callers \u2014 Reginald And Vivienne",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg08.mp3",
+      "durationSec": 546.73,
       "plannedStartMin": null
     }
   ]
