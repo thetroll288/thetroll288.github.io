@@ -1,155 +1,67 @@
 {
-  "episodeId": "2026-11-10-monday-night",
-  "nightLabel": "Monday night, November 9, 2026",
-  "airStart": "2026-11-10T00:00:00-05:00",
-  "airLabel": "Airing Tue Nov 10, 12:00\u20133:00 AM ET",
-  "status": "complete",
-  "updatedAt": "2026-11-10T02:33:10.415662-05:00",
+  "episodeId": "2026-11-11-tuesday-night",
+  "nightLabel": "Tuesday night, November 10, 2026",
+  "airStart": "2026-11-11T00:00:00-05:00",
+  "airLabel": "Airing Wed Nov 11, 12:00\u20133:00 AM ET",
+  "status": "live",
+  "updatedAt": "2026-11-10T23:40:27.296924-05:00",
   "note": "Live tonight from midnight \u2014 the first hour is banked and ready.",
   "segments": [
     {
       "seq": 1,
       "title": "Cold Open",
       "kind": "cold_open",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg01.mp3",
-      "durationSec": 240.09,
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg01.mp3",
+      "durationSec": 218.68,
       "plannedStartMin": null
     },
     {
       "seq": 2,
       "title": "Monologue \u2014 State News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg02.mp3",
-      "durationSec": 516.87,
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg02.mp3",
+      "durationSec": 409.59,
       "plannedStartMin": null
     },
     {
       "seq": 3,
       "title": "Monologue \u2014 National News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg03.mp3",
-      "durationSec": 366.41,
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg03.mp3",
+      "durationSec": 341.23,
       "plannedStartMin": null
     },
     {
       "seq": 4,
       "title": "Monologue \u2014 Around The World",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg04.mp3",
-      "durationSec": 397.45,
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg04.mp3",
+      "durationSec": 492.4,
       "plannedStartMin": null
     },
     {
       "seq": 5,
-      "title": "Callers \u2014 Damian And Lacey",
+      "title": "Callers \u2014 Stanton And Maren",
       "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg05.mp3",
-      "durationSec": 822.23,
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg05.mp3",
+      "durationSec": 704.94,
       "plannedStartMin": null
     },
     {
       "seq": 6,
-      "title": "Callers \u2014 Javier And Lorena",
+      "title": "Callers \u2014 Terrence And Celine",
       "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg06.mp3",
-      "durationSec": 845.49,
-      "plannedStartMin": 39.051
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg06.mp3",
+      "durationSec": 579.65,
+      "plannedStartMin": null
     },
     {
       "seq": 7,
       "title": "1 AM Reset",
       "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg07.mp3",
-      "durationSec": 297.59,
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-10/seg07.mp3",
+      "durationSec": 229.11,
       "plannedStartMin": null
-    },
-    {
-      "seq": 8,
-      "title": "Callers \u2014 Karl And Margaret",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg08.mp3",
-      "durationSec": 734.85,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 9,
-      "title": "Callers \u2014 Levi And Marina",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg09.mp3",
-      "durationSec": 599.87,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 10,
-      "title": "Callers \u2014 Logan And Melanie",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg10.mp3",
-      "durationSec": 726.94,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 11,
-      "title": "Callers \u2014 Morgan And Natasha",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg11.mp3",
-      "durationSec": 645.02,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 12,
-      "title": "Callers \u2014 Neal And Marta",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg12.mp3",
-      "durationSec": 619.36,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 13,
-      "title": "2 AM Reset",
-      "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg13.mp3",
-      "durationSec": 240.19,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 14,
-      "title": "Callers \u2014 Oliver And Mia",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg14.mp3",
-      "durationSec": 685.76,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 15,
-      "title": "Callers \u2014 Pablo And Mona",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg15.mp3",
-      "durationSec": 632.98,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 16,
-      "title": "Callers \u2014 Randall And Maureen",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg16.mp3",
-      "durationSec": 853.66,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 17,
-      "title": "Radio Graffiti",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg17.mp3",
-      "durationSec": 887.95,
-      "plannedStartMin": null
-    },
-    {
-      "seq": 18,
-      "title": "Radio Graffiti And Close",
-      "kind": "close",
-      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-09/seg18.mp3",
-      "durationSec": 687.26,
-      "plannedStartMin": 168.686
     }
   ]
 }
