@@ -4,7 +4,7 @@
   "airStart": "2026-11-12T00:00:00-05:00",
   "airLabel": "Thu Nov 12, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-11T23:39:44.616117-05:00",
+  "updatedAt": "2026-11-11T23:47:17.979587-05:00",
   "note": "Live tonight \u2014 America After Dark with Dudley Duke, from DeLand, Florida. Segments appear as they are produced.",
   "segments": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "seq": 5,
-      "title": "Callers \u2014 Stanton And Maren",
+      "title": "Callers \u2014 August And Agatha",
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg05.mp3",
       "durationSec": 501.64,
@@ -49,7 +49,7 @@
     },
     {
       "seq": 6,
-      "title": "Callers \u2014 Terrence And Celine",
+      "title": "Callers \u2014 Pierce And Delphine",
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg06.mp3",
       "durationSec": 378.32,
@@ -65,7 +65,7 @@
     },
     {
       "seq": 8,
-      "title": "Callers \u2014 Reginald And Vivienne",
+      "title": "Callers \u2014 Roderick And Aurelia",
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg08.mp3",
       "durationSec": 326.65,
@@ -73,7 +73,7 @@
     },
     {
       "seq": 9,
-      "title": "Callers \u2014 Boone And Farrah",
+      "title": "Callers \u2014 Shepherd And Callista",
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg09.mp3",
       "durationSec": 350.71,
@@ -81,11 +81,27 @@
     },
     {
       "seq": 10,
-      "title": "Callers \u2014 Thatcher And Noelle",
+      "title": "Callers \u2014 Thorne, Elspeth And Marlow",
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg10.mp3",
       "durationSec": 437.52,
       "plannedStartMin": 45.897
+    },
+    {
+      "seq": 11,
+      "title": "Callers \u2014 Vance, Gwendolen And Sabina",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg11.mp3",
+      "durationSec": 459.46,
+      "plannedStartMin": 53.189
+    },
+    {
+      "seq": 14,
+      "title": "Callers \u2014 Bramwell, Juniper And Tilda",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg14.mp3",
+      "durationSec": 417.87,
+      "plannedStartMin": 60.846
     }
   ]
 }
