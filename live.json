@@ -3,8 +3,8 @@
   "nightLabel": "Wednesday night, November 11, 2026",
   "airStart": "2026-11-12T00:00:00-05:00",
   "airLabel": "Thu Nov 12, 12:00\u20133:00 AM ET",
-  "status": "live",
-  "updatedAt": "2026-11-11T23:47:17.979587-05:00",
+  "status": "complete",
+  "updatedAt": "2026-11-12T01:55:39.265019-05:00",
   "note": "Live tonight \u2014 America After Dark with Dudley Duke, from DeLand, Florida. Segments appear as they are produced.",
   "segments": [
     {
@@ -96,12 +96,140 @@
       "plannedStartMin": 53.189
     },
     {
+      "seq": 12,
+      "title": "Callers \u2014 Whitaker, Isadora And Emory",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part2/seg12.mp3",
+      "durationSec": 405.23,
+      "plannedStartMin": 60.846
+    },
+    {
+      "seq": 13,
+      "title": "2 AM Reset",
+      "kind": "reset",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part2/seg13.mp3",
+      "durationSec": 145.85,
+      "plannedStartMin": 67.6
+    },
+    {
       "seq": 14,
       "title": "Callers \u2014 Bramwell, Juniper And Tilda",
       "kind": "callers",
       "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg14.mp3",
       "durationSec": 417.87,
-      "plannedStartMin": 60.846
+      "plannedStartMin": 70.031
+    },
+    {
+      "seq": 15,
+      "title": "Callers \u2014 Crispin, Lucretia And Phineas",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part2/seg15.mp3",
+      "durationSec": 446.0,
+      "plannedStartMin": 76.996
+    },
+    {
+      "seq": 16,
+      "title": "Callers \u2014 Dunstan, Mirabel And Rowena",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part2/seg16.mp3",
+      "durationSec": 422.24,
+      "plannedStartMin": 84.429
+    },
+    {
+      "seq": 17,
+      "title": "Callers \u2014 Fitzgerald, Perpetua And Humphrey",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part2/seg17.mp3",
+      "durationSec": 385.95,
+      "plannedStartMin": 91.466
+    },
+    {
+      "seq": 18,
+      "title": "Callers \u2014 Wendy, Kingsley And Annabel",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part3/seg18.mp3",
+      "durationSec": 379.18,
+      "plannedStartMin": 97.899
+    },
+    {
+      "seq": 19,
+      "title": "Callers \u2014 Leopold, Bianca And Mortimer",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part3/seg19.mp3",
+      "durationSec": 417.3,
+      "plannedStartMin": 104.218
+    },
+    {
+      "seq": 20,
+      "title": "Callers \u2014 Cecily, Obadiah And Desdemona",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part3/seg20.mp3",
+      "durationSec": 370.29,
+      "plannedStartMin": 111.174
+    },
+    {
+      "seq": 21,
+      "title": "Callers \u2014 Solomon, Selene And Gustav",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part2/seg21.mp3",
+      "durationSec": 536.75,
+      "plannedStartMin": 117.346
+    },
+    {
+      "seq": 22,
+      "title": "Callers \u2014 Una, Ferdinand And Octavia",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part4/seg22.mp3",
+      "durationSec": 447.2,
+      "plannedStartMin": 126.291
+    },
+    {
+      "seq": 23,
+      "title": "Callers \u2014 Upton, Flannery And Wilfred",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part3/seg23.mp3",
+      "durationSec": 416.8,
+      "plannedStartMin": 133.744
+    },
+    {
+      "seq": 24,
+      "title": "Callers \u2014 Georgiana, Yancy And Isolde",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part4/seg24.mp3",
+      "durationSec": 374.58,
+      "plannedStartMin": 140.691
+    },
+    {
+      "seq": 25,
+      "title": "Callers \u2014 Leander, Cornelia And Dorothea",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part5/seg25.mp3",
+      "durationSec": 328.6,
+      "plannedStartMin": 146.934
+    },
+    {
+      "seq": 26,
+      "title": "Radio Graffiti",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part5/seg26.mp3",
+      "durationSec": 220.4,
+      "plannedStartMin": 152.41
+    },
+    {
+      "seq": 27,
+      "title": "Callers \u2014 Montgomery, Millicent And Ebenezer",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part5/seg27.mp3",
+      "durationSec": 303.12,
+      "plannedStartMin": 156.084
+    },
+    {
+      "seq": 28,
+      "title": "Radio Graffiti And Close",
+      "kind": "close",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11-part6/seg28.mp3",
+      "durationSec": 1132.41,
+      "plannedStartMin": 161.136
     }
   ]
 }
