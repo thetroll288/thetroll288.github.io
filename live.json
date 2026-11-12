@@ -4,7 +4,7 @@
   "airStart": "2026-11-12T00:00:00-05:00",
   "airLabel": "Thu Nov 12, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-11T23:31:26.653466-05:00",
+  "updatedAt": "2026-11-11T23:39:44.616117-05:00",
   "note": "Live tonight \u2014 America After Dark with Dudley Duke, from DeLand, Florida. Segments appear as they are produced.",
   "segments": [
     {
@@ -78,6 +78,14 @@
       "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg09.mp3",
       "durationSec": 350.71,
       "plannedStartMin": 40.052
+    },
+    {
+      "seq": 10,
+      "title": "Callers \u2014 Thatcher And Noelle",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-11/seg10.mp3",
+      "durationSec": 437.52,
+      "plannedStartMin": 45.897
     }
   ]
 }
