@@ -4,7 +4,7 @@
   "airStart": "2026-11-13T00:00:00-05:00",
   "airLabel": "Fri Nov 13, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-13T08:29:41.332377-05:00",
+  "updatedAt": "2026-11-13T08:44:35.479538-05:00",
   "note": "",
   "segments": [
     {
@@ -134,6 +134,22 @@
       "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part11/seg16.mp3",
       "durationSec": 341.12,
       "plannedStartMin": 73.453
+    },
+    {
+      "seq": 21,
+      "title": "Callers \u2014 Josiah, Elin And Freya",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part8/seg21.mp3",
+      "durationSec": 502.76,
+      "plannedStartMin": 102.738
+    },
+    {
+      "seq": 22,
+      "title": "Callers \u2014 Lysander And Greer",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part8/seg22.mp3",
+      "durationSec": 354.37,
+      "plannedStartMin": 111.117
     },
     {
       "seq": 23,
