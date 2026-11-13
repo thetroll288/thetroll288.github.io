@@ -3,8 +3,8 @@
   "nightLabel": "Thursday night, November 12, 2026",
   "airStart": "2026-11-13T00:00:00-05:00",
   "airLabel": "Fri Nov 13, 12:00\u20133:00 AM ET",
-  "status": "live",
-  "updatedAt": "2026-11-13T08:44:35.479538-05:00",
+  "status": "complete",
+  "updatedAt": "2026-11-13T09:24:02.045571-05:00",
   "note": "",
   "segments": [
     {
@@ -136,6 +136,38 @@
       "plannedStartMin": 73.453
     },
     {
+      "seq": 17,
+      "title": "Callers \u2014 Fabian And Allegra",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part10/seg17.mp3",
+      "durationSec": 343.5,
+      "plannedStartMin": 79.138
+    },
+    {
+      "seq": 18,
+      "title": "Callers \u2014 Godfrey And Brynn",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part10/seg18.mp3",
+      "durationSec": 327.82,
+      "plannedStartMin": 84.863
+    },
+    {
+      "seq": 19,
+      "title": "Callers \u2014 Hugo And Carys",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part9/seg19.mp3",
+      "durationSec": 393.93,
+      "plannedStartMin": 90.326
+    },
+    {
+      "seq": 20,
+      "title": "Callers \u2014 Jeremiah And Delaney",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part9/seg20.mp3",
+      "durationSec": 350.74,
+      "plannedStartMin": 96.892
+    },
+    {
       "seq": 21,
       "title": "Callers \u2014 Josiah, Elin And Freya",
       "kind": "callers",
@@ -184,6 +216,46 @@
       "plannedStartMin": 132.543
     },
     {
+      "seq": 27,
+      "title": "Callers \u2014 Ogden And Rhea",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part5/seg27.mp3",
+      "durationSec": 339.5,
+      "plannedStartMin": 137.306
+    },
+    {
+      "seq": 28,
+      "title": "Callers \u2014 Quillan And Alba",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part5/seg28.mp3",
+      "durationSec": 363.56,
+      "plannedStartMin": 142.965
+    },
+    {
+      "seq": 29,
+      "title": "Callers \u2014 Redmond And Cleo",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part4/seg29.mp3",
+      "durationSec": 348.04,
+      "plannedStartMin": 149.024
+    },
+    {
+      "seq": 30,
+      "title": "Callers \u2014 Braden And Ivy",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part4/seg30.mp3",
+      "durationSec": 352.06,
+      "plannedStartMin": 154.825
+    },
+    {
+      "seq": 31,
+      "title": "Radio Graffiti",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part3/seg31.mp3",
+      "durationSec": 163.07,
+      "plannedStartMin": 160.692
+    },
+    {
       "seq": 32,
       "title": "Radio Graffiti And Close",
       "kind": "close",
@@ -191,5 +263,6 @@
       "durationSec": 995.5,
       "plannedStartMin": 163.41
     }
-  ]
+  ],
+  "replayNote": "Thursday night show complete \u2014 full 3:00:00 replay available."
 }
