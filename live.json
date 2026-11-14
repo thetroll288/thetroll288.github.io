@@ -1,268 +1,67 @@
 {
-  "episodeId": "2026-11-13-thursday-night",
-  "nightLabel": "Thursday night, November 12, 2026",
-  "airStart": "2026-11-13T00:00:00-05:00",
-  "airLabel": "Fri Nov 13, 12:00\u20133:00 AM ET",
-  "status": "complete",
-  "updatedAt": "2026-11-13T09:24:02.045571-05:00",
-  "note": "",
+  "episodeId": "2026-11-14-friday-night",
+  "nightLabel": "Friday night, November 13, 2026",
+  "airStart": "2026-11-14T00:00:00-05:00",
+  "airLabel": "Sat Nov 14, 12:00\u20133:00 AM ET",
+  "status": "live",
+  "updatedAt": "2026-11-13T23:48:28.779725-05:00",
+  "note": "Live tonight \u2014 Friday night, November 13, 2026.",
   "segments": [
     {
       "seq": 1,
       "title": "Cold Open",
       "kind": "cold_open",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12/seg01.mp3",
-      "durationSec": 85.93,
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-13/seg01.mp3",
+      "durationSec": 55.72,
       "plannedStartMin": 0.0
     },
     {
       "seq": 2,
       "title": "Monologue \u2014 State News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12/seg02.mp3",
-      "durationSec": 305.03,
-      "plannedStartMin": 1.432
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-13/seg02.mp3",
+      "durationSec": 184.68,
+      "plannedStartMin": 0.929
     },
     {
       "seq": 3,
       "title": "Monologue \u2014 National News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part2/seg03.mp3",
-      "durationSec": 284.84,
-      "plannedStartMin": 6.516
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-13/seg03.mp3",
+      "durationSec": 149.25,
+      "plannedStartMin": 4.007
     },
     {
       "seq": 4,
       "title": "Monologue \u2014 Around The World",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part3/seg04.mp3",
-      "durationSec": 269.09,
-      "plannedStartMin": 11.263
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-13/seg04.mp3",
+      "durationSec": 175.86,
+      "plannedStartMin": 6.494
     },
     {
       "seq": 5,
-      "title": "Callers \u2014 Aldous And Lenore",
+      "title": "Callers \u2014 Kendrick And Heidi",
       "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part4/seg05.mp3",
-      "durationSec": 389.12,
-      "plannedStartMin": 15.748
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-13-part2/seg05.mp3",
+      "durationSec": 270.01,
+      "plannedStartMin": 9.425
     },
     {
       "seq": 6,
-      "title": "Callers \u2014 Beckett And Camilla",
+      "title": "Callers \u2014 Grant And Faith",
       "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part12/seg06.mp3",
-      "durationSec": 342.83,
-      "plannedStartMin": 22.233
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-13-part2/seg06.mp3",
+      "durationSec": 287.09,
+      "plannedStartMin": 13.925
     },
     {
       "seq": 7,
       "title": "1 AM Reset",
       "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part6/seg07.mp3",
-      "durationSec": 187.05,
-      "plannedStartMin": 27.947
-    },
-    {
-      "seq": 8,
-      "title": "Callers \u2014 Cormac And Priscilla",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part7/seg08.mp3",
-      "durationSec": 261.75,
-      "plannedStartMin": 31.065
-    },
-    {
-      "seq": 9,
-      "title": "Callers \u2014 Callum And Larissa",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part8/seg09.mp3",
-      "durationSec": 314.58,
-      "plannedStartMin": 35.428
-    },
-    {
-      "seq": 10,
-      "title": "Callers \u2014 Beaumont And Regina",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part9/seg10.mp3",
-      "durationSec": 396.32,
-      "plannedStartMin": 40.67
-    },
-    {
-      "seq": 11,
-      "title": "Callers \u2014 Merrick And Sabrina",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part10/seg11.mp3",
-      "durationSec": 367.72,
-      "plannedStartMin": 47.276
-    },
-    {
-      "seq": 12,
-      "title": "Callers \u2014 Lachlan And Serena",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part11/seg12.mp3",
-      "durationSec": 328.79,
-      "plannedStartMin": 53.404
-    },
-    {
-      "seq": 13,
-      "title": "2 AM Reset",
-      "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part12/seg13.mp3",
-      "durationSec": 131.89,
-      "plannedStartMin": 58.884
-    },
-    {
-      "seq": 14,
-      "title": "Callers \u2014 Abbott And Sibyl",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part12/seg14.mp3",
-      "durationSec": 356.43,
-      "plannedStartMin": 61.082
-    },
-    {
-      "seq": 15,
-      "title": "Callers \u2014 Anselm And Yvonne",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part11/seg15.mp3",
-      "durationSec": 385.78,
-      "plannedStartMin": 67.023
-    },
-    {
-      "seq": 16,
-      "title": "Callers \u2014 Ashby And Astrid",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part11/seg16.mp3",
-      "durationSec": 341.12,
-      "plannedStartMin": 73.453
-    },
-    {
-      "seq": 17,
-      "title": "Callers \u2014 Fabian And Allegra",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part10/seg17.mp3",
-      "durationSec": 343.5,
-      "plannedStartMin": 79.138
-    },
-    {
-      "seq": 18,
-      "title": "Callers \u2014 Godfrey And Brynn",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part10/seg18.mp3",
-      "durationSec": 327.82,
-      "plannedStartMin": 84.863
-    },
-    {
-      "seq": 19,
-      "title": "Callers \u2014 Hugo And Carys",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part9/seg19.mp3",
-      "durationSec": 393.93,
-      "plannedStartMin": 90.326
-    },
-    {
-      "seq": 20,
-      "title": "Callers \u2014 Jeremiah And Delaney",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part9/seg20.mp3",
-      "durationSec": 350.74,
-      "plannedStartMin": 96.892
-    },
-    {
-      "seq": 21,
-      "title": "Callers \u2014 Josiah, Elin And Freya",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part8/seg21.mp3",
-      "durationSec": 502.76,
-      "plannedStartMin": 102.738
-    },
-    {
-      "seq": 22,
-      "title": "Callers \u2014 Lysander And Greer",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part8/seg22.mp3",
-      "durationSec": 354.37,
-      "plannedStartMin": 111.117
-    },
-    {
-      "seq": 23,
-      "title": "Callers \u2014 Orlando And Ines",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part7/seg23.mp3",
-      "durationSec": 354.08,
-      "plannedStartMin": 117.023
-    },
-    {
-      "seq": 24,
-      "title": "Callers \u2014 Jarvis And Lark",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part7/seg24.mp3",
-      "durationSec": 303.85,
-      "plannedStartMin": 122.925
-    },
-    {
-      "seq": 25,
-      "title": "Callers \u2014 Raphael And Petra",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part6/seg25.mp3",
-      "durationSec": 273.26,
-      "plannedStartMin": 127.989
-    },
-    {
-      "seq": 26,
-      "title": "Callers \u2014 Sutton And Sable",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part6/seg26.mp3",
-      "durationSec": 285.8,
-      "plannedStartMin": 132.543
-    },
-    {
-      "seq": 27,
-      "title": "Callers \u2014 Ogden And Rhea",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part5/seg27.mp3",
-      "durationSec": 339.5,
-      "plannedStartMin": 137.306
-    },
-    {
-      "seq": 28,
-      "title": "Callers \u2014 Quillan And Alba",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part5/seg28.mp3",
-      "durationSec": 363.56,
-      "plannedStartMin": 142.965
-    },
-    {
-      "seq": 29,
-      "title": "Callers \u2014 Redmond And Cleo",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part4/seg29.mp3",
-      "durationSec": 348.04,
-      "plannedStartMin": 149.024
-    },
-    {
-      "seq": 30,
-      "title": "Callers \u2014 Braden And Ivy",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part4/seg30.mp3",
-      "durationSec": 352.06,
-      "plannedStartMin": 154.825
-    },
-    {
-      "seq": 31,
-      "title": "Radio Graffiti",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part3/seg31.mp3",
-      "durationSec": 163.07,
-      "plannedStartMin": 160.692
-    },
-    {
-      "seq": 32,
-      "title": "Radio Graffiti And Close",
-      "kind": "close",
-      "audioUrl": "https://archive.org/download/america-after-dark-thursday-night-2026-11-12-part2/seg32.mp3",
-      "durationSec": 995.5,
-      "plannedStartMin": 163.41
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-13-part2/seg07.mp3",
+      "durationSec": 169.0,
+      "plannedStartMin": 18.71
     }
-  ],
-  "replayNote": "Thursday night show complete \u2014 full 3:00:00 replay available."
+  ]
 }
