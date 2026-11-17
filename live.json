@@ -4,7 +4,7 @@
   "airStart": "2026-11-17T00:00:00-05:00",
   "airLabel": "Tue Nov 17, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-17T07:17:16.357574-05:00",
+  "updatedAt": "2026-11-17T07:47:11.952455-05:00",
   "note": "Live tonight \u2014 Monday night, November 16, 2026.",
   "segments": [
     {
@@ -94,6 +94,62 @@
       "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-16/seg11.mp3",
       "durationSec": 270.21,
       "plannedStartMin": 48.947
+    },
+    {
+      "seq": 12,
+      "title": "Callers \u2014 Enzo And Carlotta",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-16/seg12.mp3",
+      "durationSec": 420.96,
+      "plannedStartMin": 53.45
+    },
+    {
+      "seq": 13,
+      "title": "2 AM Reset",
+      "kind": "reset",
+      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-16/seg13.mp3",
+      "durationSec": 163.29,
+      "plannedStartMin": 60.466
+    },
+    {
+      "seq": 14,
+      "title": "Callers \u2014 Fergus And Cressida",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-16-part2/seg14.mp3",
+      "durationSec": 283.09,
+      "plannedStartMin": 63.188
+    },
+    {
+      "seq": 15,
+      "title": "Callers \u2014 Finn And Danica",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-16/seg15.mp3",
+      "durationSec": 426.59,
+      "plannedStartMin": 67.906
+    },
+    {
+      "seq": 16,
+      "title": "Callers \u2014 Anselmo And Emmeline",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-16/seg16.mp3",
+      "durationSec": 278.9,
+      "plannedStartMin": 75.016
+    },
+    {
+      "seq": 17,
+      "title": "Callers \u2014 Jared And Esmeralda",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-16/seg17.mp3",
+      "durationSec": 435.12,
+      "plannedStartMin": 79.664
+    },
+    {
+      "seq": 18,
+      "title": "Callers \u2014 Marlon And Estrella",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-monday-night-2026-11-16-part2/seg18.mp3",
+      "durationSec": 279.15,
+      "plannedStartMin": 86.916
     }
   ]
 }
