@@ -4,7 +4,7 @@
   "airStart": "2026-11-21T00:00:00-05:00",
   "airLabel": "Sat Nov 21, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-20T23:48:36.571248-05:00",
+  "updatedAt": "2026-11-21T00:15:57.245453-05:00",
   "note": "Live tonight \u2014 Friday night, November 20, 2026.",
   "segments": [
     {
@@ -38,6 +38,78 @@
       "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg04.mp3",
       "durationSec": 271.86,
       "plannedStartMin": 9.851
+    },
+    {
+      "seq": 5,
+      "title": "Callers \u2014 Luanne And Tony",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg05.mp3",
+      "durationSec": 280.01,
+      "plannedStartMin": 14.382
+    },
+    {
+      "seq": 6,
+      "title": "Callers \u2014 Tawnya And Gage",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg06.mp3",
+      "durationSec": 275.41,
+      "plannedStartMin": 19.049
+    },
+    {
+      "seq": 7,
+      "title": "1 AM Reset",
+      "kind": "reset",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg07.mp3",
+      "durationSec": 164.6,
+      "plannedStartMin": 23.639
+    },
+    {
+      "seq": 8,
+      "title": "Callers \u2014 Shantel And Brycen",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg08.mp3",
+      "durationSec": 291.24,
+      "plannedStartMin": 26.383
+    },
+    {
+      "seq": 9,
+      "title": "Callers \u2014 Lakisha And Jermaine",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg09.mp3",
+      "durationSec": 264.86,
+      "plannedStartMin": 31.237
+    },
+    {
+      "seq": 10,
+      "title": "Callers \u2014 Tonya And Willard",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg10.mp3",
+      "durationSec": 276.93,
+      "plannedStartMin": 35.651
+    },
+    {
+      "seq": 11,
+      "title": "Callers \u2014 Latonya And Terrell",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg11.mp3",
+      "durationSec": 276.77,
+      "plannedStartMin": 40.266
+    },
+    {
+      "seq": 12,
+      "title": "Callers \u2014 Sheree And Winston",
+      "kind": "callers",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg12.mp3",
+      "durationSec": 271.51,
+      "plannedStartMin": 44.879
+    },
+    {
+      "seq": 13,
+      "title": "2 AM Reset",
+      "kind": "reset",
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg13.mp3",
+      "durationSec": 122.86,
+      "plannedStartMin": 49.404
     }
   ]
 }
