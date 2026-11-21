@@ -1,67 +1,43 @@
 {
-  "episodeId": "2026-11-19-wednesday-night",
-  "nightLabel": "Wednesday night, November 18, 2026",
-  "airStart": "2026-11-19T00:00:00-05:00",
-  "airLabel": "Thu Nov 19, 12:00\u20133:00 AM ET",
+  "episodeId": "2026-11-21-friday-night",
+  "nightLabel": "Friday night, November 20, 2026",
+  "airStart": "2026-11-21T00:00:00-05:00",
+  "airLabel": "Sat Nov 21, 12:00\u20133:00 AM ET",
   "status": "live",
-  "updatedAt": "2026-11-18T23:55:08.346331-05:00",
-  "note": "Live tonight \u2014 Wednesday night, November 18, 2026.",
+  "updatedAt": "2026-11-20T23:48:36.571248-05:00",
+  "note": "Live tonight \u2014 Friday night, November 20, 2026.",
   "segments": [
     {
       "seq": 1,
       "title": "Cold Open",
       "kind": "cold_open",
-      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-18/seg01.mp3",
-      "durationSec": 79.45,
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg01.mp3",
+      "durationSec": 79.18,
       "plannedStartMin": 0.0
     },
     {
       "seq": 2,
       "title": "Monologue \u2014 State News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-18/seg02.mp3",
-      "durationSec": 259.1,
-      "plannedStartMin": 1.324
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20-part2/seg02.mp3",
+      "durationSec": 243.42,
+      "plannedStartMin": 1.32
     },
     {
       "seq": 3,
       "title": "Monologue \u2014 National News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-18/seg03.mp3",
-      "durationSec": 272.49,
-      "plannedStartMin": 5.643
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg03.mp3",
+      "durationSec": 268.47,
+      "plannedStartMin": 5.377
     },
     {
       "seq": 4,
       "title": "Monologue \u2014 Around The World",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-18/seg04.mp3",
-      "durationSec": 273.95,
-      "plannedStartMin": 10.184
-    },
-    {
-      "seq": 5,
-      "title": "Callers \u2014 Stetson And Annika",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-18/seg05.mp3",
-      "durationSec": 314.82,
-      "plannedStartMin": 14.75
-    },
-    {
-      "seq": 6,
-      "title": "Callers \u2014 Colter And Shirley",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-18/seg06.mp3",
-      "durationSec": 340.7,
-      "plannedStartMin": 19.997
-    },
-    {
-      "seq": 7,
-      "title": "1 AM Reset",
-      "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-wednesday-night-2026-11-18/seg07.mp3",
-      "durationSec": 179.9,
-      "plannedStartMin": 25.675
+      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg04.mp3",
+      "durationSec": 271.86,
+      "plannedStartMin": 9.851
     }
   ]
 }
