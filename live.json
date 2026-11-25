@@ -1,275 +1,59 @@
 {
-  "episodeId": "2026-11-21-friday-night",
-  "nightLabel": "Friday night, November 20, 2026",
-  "airStart": "2026-11-21T00:00:00-05:00",
-  "airLabel": "Sat Nov 21, 12:00\u20133:00 AM ET",
-  "status": "complete",
-  "updatedAt": "2026-11-21T02:30:13.360540-05:00",
-  "note": "Live tonight \u2014 Friday night, November 20, 2026.",
+  "episodeId": "2026-11-25-tuesday-night",
+  "nightLabel": "Tuesday night, November 24, 2026",
+  "airStart": "2026-11-25T00:00:00-05:00",
+  "airLabel": "Wed Nov 25, 12:00\u20133:00 AM ET",
+  "status": "live",
+  "updatedAt": "2026-11-24T23:52:15.680428-05:00",
+  "note": "Live tonight \u2014 Tuesday night, November 24, 2026.",
   "segments": [
     {
       "seq": 1,
       "title": "Cold Open",
       "kind": "cold_open",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg01.mp3",
-      "durationSec": 79.18,
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-24/seg01.mp3",
+      "durationSec": 68.58,
       "plannedStartMin": 0.0
     },
     {
       "seq": 2,
       "title": "Monologue \u2014 State News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20-part2/seg02.mp3",
-      "durationSec": 243.42,
-      "plannedStartMin": 1.32
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-24-part2/seg02.mp3",
+      "durationSec": 310.02,
+      "plannedStartMin": 1.143
     },
     {
       "seq": 3,
       "title": "Monologue \u2014 National News",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg03.mp3",
-      "durationSec": 268.47,
-      "plannedStartMin": 5.377
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-24/seg03.mp3",
+      "durationSec": 285.96,
+      "plannedStartMin": 6.31
     },
     {
       "seq": 4,
       "title": "Monologue \u2014 Around The World",
       "kind": "monologue",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg04.mp3",
-      "durationSec": 271.86,
-      "plannedStartMin": 9.851
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-24/seg04.mp3",
+      "durationSec": 356.69,
+      "plannedStartMin": 11.076
     },
     {
       "seq": 5,
-      "title": "Callers \u2014 Luanne And Tony",
+      "title": "Callers \u2014 Halle And Kiefer",
       "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg05.mp3",
-      "durationSec": 280.01,
-      "plannedStartMin": 14.382
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-24/seg05.mp3",
+      "durationSec": 275.2,
+      "plannedStartMin": 17.021
     },
     {
       "seq": 6,
-      "title": "Callers \u2014 Tawnya And Gage",
+      "title": "Callers \u2014 Geneva And Cosmo",
       "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg06.mp3",
-      "durationSec": 275.41,
-      "plannedStartMin": 19.049
-    },
-    {
-      "seq": 7,
-      "title": "1 AM Reset",
-      "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg07.mp3",
-      "durationSec": 164.6,
-      "plannedStartMin": 23.639
-    },
-    {
-      "seq": 8,
-      "title": "Callers \u2014 Shantel And Brycen",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg08.mp3",
-      "durationSec": 291.24,
-      "plannedStartMin": 26.383
-    },
-    {
-      "seq": 9,
-      "title": "Callers \u2014 Lakisha And Jermaine",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg09.mp3",
-      "durationSec": 264.86,
-      "plannedStartMin": 31.237
-    },
-    {
-      "seq": 10,
-      "title": "Callers \u2014 Tonya And Willard",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg10.mp3",
-      "durationSec": 276.93,
-      "plannedStartMin": 35.651
-    },
-    {
-      "seq": 11,
-      "title": "Callers \u2014 Latonya And Terrell",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg11.mp3",
-      "durationSec": 276.77,
-      "plannedStartMin": 40.266
-    },
-    {
-      "seq": 12,
-      "title": "Callers \u2014 Sheree And Winston",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg12.mp3",
-      "durationSec": 271.51,
-      "plannedStartMin": 44.879
-    },
-    {
-      "seq": 13,
-      "title": "2 AM Reset",
-      "kind": "reset",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg13.mp3",
-      "durationSec": 122.86,
-      "plannedStartMin": 49.404
-    },
-    {
-      "seq": 14,
-      "title": "Callers \u2014 Deandra And Fintan",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg14.mp3",
-      "durationSec": 302.13,
-      "plannedStartMin": 51.452
-    },
-    {
-      "seq": 15,
-      "title": "Callers \u2014 Yolonda And Dewayne",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg15.mp3",
-      "durationSec": 311.74,
-      "plannedStartMin": 56.488
-    },
-    {
-      "seq": 16,
-      "title": "Callers \u2014 Tanisha And Kelvin",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg16.mp3",
-      "durationSec": 306.82,
-      "plannedStartMin": 61.683
-    },
-    {
-      "seq": 17,
-      "title": "Callers \u2014 Patrice And Odell",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg17.mp3",
-      "durationSec": 299.46,
-      "plannedStartMin": 66.797
-    },
-    {
-      "seq": 18,
-      "title": "Callers \u2014 Shanice And Donte",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg18.mp3",
-      "durationSec": 293.39,
-      "plannedStartMin": 71.788
-    },
-    {
-      "seq": 19,
-      "title": "Callers \u2014 Lashonda And Dante",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg19.mp3",
-      "durationSec": 283.98,
-      "plannedStartMin": 76.678
-    },
-    {
-      "seq": 20,
-      "title": "Callers \u2014 Marquita And Alonso",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg20.mp3",
-      "durationSec": 315.07,
-      "plannedStartMin": 81.411
-    },
-    {
-      "seq": 21,
-      "title": "Callers \u2014 Corrine And Xander",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg21.mp3",
-      "durationSec": 307.01,
-      "plannedStartMin": 86.662
-    },
-    {
-      "seq": 22,
-      "title": "Callers \u2014 Wendi And Leonardo",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg22.mp3",
-      "durationSec": 275.75,
-      "plannedStartMin": 91.779
-    },
-    {
-      "seq": 23,
-      "title": "Callers \u2014 Kassandra And Nicolas",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg23.mp3",
-      "durationSec": 285.47,
-      "plannedStartMin": 96.375
-    },
-    {
-      "seq": 24,
-      "title": "Callers \u2014 Consuela And Sergio",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg24.mp3",
-      "durationSec": 286.0,
-      "plannedStartMin": 101.132
-    },
-    {
-      "seq": 25,
-      "title": "Callers \u2014 Latasha And Valentin",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg25.mp3",
-      "durationSec": 280.17,
-      "plannedStartMin": 105.899
-    },
-    {
-      "seq": 26,
-      "title": "Callers \u2014 Tameka And Rashad",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg26.mp3",
-      "durationSec": 261.53,
-      "plannedStartMin": 110.569
-    },
-    {
-      "seq": 27,
-      "title": "Callers \u2014 Shanika And Jamar",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg27.mp3",
-      "durationSec": 286.64,
-      "plannedStartMin": 114.927
-    },
-    {
-      "seq": 28,
-      "title": "Callers \u2014 Keisha And Dangelo",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg28.mp3",
-      "durationSec": 276.92,
-      "plannedStartMin": 119.705
-    },
-    {
-      "seq": 29,
-      "title": "Callers \u2014 Janessa And Demarcus",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg29.mp3",
-      "durationSec": 619.48,
-      "plannedStartMin": 124.32
-    },
-    {
-      "seq": 30,
-      "title": "Callers \u2014 Meagan And Trayvon",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg30.mp3",
-      "durationSec": 643.0,
-      "plannedStartMin": 134.645
-    },
-    {
-      "seq": 31,
-      "title": "Callers \u2014 Raven And Walker",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg31.mp3",
-      "durationSec": 607.45,
-      "plannedStartMin": 145.361
-    },
-    {
-      "seq": 32,
-      "title": "Radio Graffiti",
-      "kind": "callers",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg32.mp3",
-      "durationSec": 481.59,
-      "plannedStartMin": 155.486
-    },
-    {
-      "seq": 33,
-      "title": "Radio Graffiti And Close",
-      "kind": "close",
-      "audioUrl": "https://archive.org/download/america-after-dark-friday-night-2026-11-20/seg33.mp3",
-      "durationSec": 989.83,
-      "plannedStartMin": 163.512
+      "audioUrl": "https://archive.org/download/america-after-dark-tuesday-night-2026-11-24/seg06.mp3",
+      "durationSec": 282.49,
+      "plannedStartMin": 21.608
     }
   ]
 }
